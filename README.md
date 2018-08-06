@@ -14,7 +14,7 @@ import imdb = require('imdb');
 #### Viewing the completed project
 * Cloning the repository using command line
 ```
-git clone https://github.com/YashAgr5980/imdb-retriever.git
+git clone https://github.com/rustagishubhi/imdb-retriever.git
 ```
 * Moving into the directory
 ```
