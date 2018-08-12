@@ -1,0 +1,19 @@
+{
+  "name": "imdb-retriever",
+  "version": "1.0.0",
+  "description": "This project is to tell test the unofficial node imdb API. The API according to the documentation of NPM says that it requires a key to use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashAgr5980/imdb-retriever.git"
+  },
+  "author": "Yash/Shubhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashAgr5980/imdb-retriever/issues"
+  },
+  "homepage": "https://github.com/YashAgr5980/imdb-retriever#readme"
+}
